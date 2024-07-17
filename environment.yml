@@ -1,0 +1,20 @@
+name: text-processing-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pandas
+  - pyyaml
+  - nltk
+  - transformers
+  - sentence-transformers
+  - numpy
+  - tqdm
+  - faiss-cpu
+  - scikit-learn
+  - ipykernel
+  - pip
+  - pip:
+    - kaggle
+    - pytest

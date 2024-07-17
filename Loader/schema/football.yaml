@@ -1,0 +1,6 @@
+Format: csv
+Mapping:
+  title: title
+  text: content
+  url: link
+  author: author

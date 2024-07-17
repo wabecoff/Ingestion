@@ -1,0 +1,6 @@
+Format: single_json
+Mapping:
+  title: title
+  text: text
+  url: url
+  author: author
