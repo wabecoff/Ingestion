@@ -28,7 +28,7 @@
    - Refer to Ingestion Application Example.ipynb for usage of VSS and classes 2-5 more generally.
 
 6.  **tests**
-   - pytest based testing harness for chunker, embedding model, TextDataset.
+   - pytest based testing harness for chunker, embedding model, TextDataset.  Can be run from cl with 'pytest tests' command. 
 
 ## Setup and Usage
 
