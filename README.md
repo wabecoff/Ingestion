@@ -40,6 +40,6 @@ conda activate text-processing-env
 ```
 To run notebooks with this environment, run
 ```sh
-python -m ipykernel install --user --name=text-processing-env --display-name \"Python (text-processing-env)\"
+python -m ipykernel install --user --name=text-processing-env --display-name "Python (text-processing-env)"
 
 ```
